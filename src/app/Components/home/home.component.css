@@ -1,0 +1,11 @@
+.spacer {
+  flex: auto;
+}
+
+.display {
+  width: 80%;
+  border-radius: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
